@@ -8,6 +8,8 @@ We believe the most powerful organizations of the coming decade will not be trad
 
 Our work focuses on building those systems.
 
+Entropora comes from entropy and poros, meaning channels through complexity. *We build systems that turn the chaos of information into structured intelligence.*
+
 ---
 
 ## What We Do
