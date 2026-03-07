@@ -1,4 +1,4 @@
-# Entropora
+# E N T R   ◯•   P O R A
 
 **Building systems that convert entropy into intelligence.**
 
