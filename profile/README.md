@@ -104,13 +104,10 @@ If you enjoy working on problems that sit at the edge of **AI, systems design, a
 
 ---
 
-## Founders
+## Founder
 
 **Lorenz Sauer**  
 Computational systems thinker focused on AI, complex systems, and recursive modeling.
-
-**Andrii Shylenko**  
-Systems builder specializing in execution, infrastructure, and hardware-aware engineering.
 
 Together we explore how intelligence systems can design, build, and evolve organizations.
 
